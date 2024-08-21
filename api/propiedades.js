@@ -16,7 +16,7 @@ const propiedades = [
         baños: 3,
         tipoPropiedad: "Casa",
         descripcion: "Casa espaciosa cerca del centro comercial.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/aerial-view-of-tightly-located-new-family-houses-i-2023-11-27-05-19-01-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/aerial-view-of-tightly-located-new-family-houses-i-2023-11-27-05-19-01-utc.jpg",
         amenities: ["Jardín", "Piscina", "Gimnasio", "Estacionamiento"],
         agente: {
             nombre: "Ana Gómez",
@@ -42,7 +42,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Departamento",
         descripcion: "Moderno departamento con excelente vista.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/rows-of-new-townhomes-2023-11-27-05-01-23-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/rows-of-new-townhomes-2023-11-27-05-01-23-utc.jpg",
         amenities: ["Piscina", "Estacionamiento", "Seguridad 24h"],
         agente: {
             nombre: "Carlos Soto",
@@ -68,7 +68,7 @@ const propiedades = [
         baños: 3,
         tipoPropiedad: "Casa",
         descripcion: "Casa acogedora en barrio tranquilo, cercana a parques.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/august-17-2017-pervalka-village-lithuania-old-l-2023-11-27-05-04-27-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/august-17-2017-pervalka-village-lithuania-old-l-2023-11-27-05-04-27-utc.jpg",
         amenities: ["Jardín", "Terraza", "Cerca de transporte público"],
         agente: {
             nombre: "María López",
@@ -94,7 +94,7 @@ const propiedades = [
         baños: 3,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento de lujo en una de las mejores zonas de Santiago.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/beautiful-shot-of-old-brick-houses-in-a-row-on-a-s-2023-11-27-05-18-05-utc.jpeg",
+        imagenUrl: "https://socovesa.vercel.app/images/beautiful-shot-of-old-brick-houses-in-a-row-on-a-s-2023-11-27-05-18-05-utc.jpeg",
         amenities: ["Piscina", "Estacionamiento", "Seguridad 24h"],
         agente: {
             nombre: "Felipe Torres",
@@ -120,7 +120,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Amplia casa familiar con gran jardín.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/casa-de-pedra-museum-19th-century-stone-house-2023-11-27-05-25-58-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/casa-de-pedra-museum-19th-century-stone-house-2023-11-27-05-25-58-utc.jpg",
         amenities: ["Jardín", "Estacionamiento", "Cerca de colegios"],
         agente: {
             nombre: "José Martínez",
@@ -146,7 +146,7 @@ const propiedades = [
         baños: 1,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento céntrico, ideal para ejecutivos.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/detail-of-colorful-houses-2023-11-27-04-59-08-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/detail-of-colorful-houses-2023-11-27-04-59-08-utc.jpg",
         amenities: ["Cerca de transporte público", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Lorena Álvarez",
@@ -172,7 +172,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Casa cómoda en barrio residencial.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/facade-of-cottage-and-retro-carriage-2023-11-27-05-05-02-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/facade-of-cottage-and-retro-carriage-2023-11-27-05-05-02-utc.jpg",
         amenities: ["Jardín", "Cerca de colegios", "Estacionamiento"],
         agente: {
             nombre: "Pedro Castillo",
@@ -198,7 +198,7 @@ const propiedades = [
         baños: 1,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento moderno con excelente conectividad.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/rooflines-in-the-neighborhood-at-sunset-in-the-spr-2023-11-27-05-07-36-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/rooflines-in-the-neighborhood-at-sunset-in-the-spr-2023-11-27-05-07-36-utc.jpg",
         amenities: ["Cerca de transporte público", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Cecilia Moya",
@@ -224,7 +224,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Casa bien ubicada, ideal para familias.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/row-of-houses-in-bristol-england-2023-11-27-04-58-17-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/row-of-houses-in-bristol-england-2023-11-27-04-58-17-utc.jpg",
         amenities: ["Jardín", "Estacionamiento", "Cerca de colegios"],
         agente: {
             nombre: "Roberto Díaz",
@@ -250,7 +250,7 @@ const propiedades = [
         baños: 1,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento en excelente ubicación, con vista despejada.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/rows-of-new-townhomes-2023-11-27-05-01-23-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/rows-of-new-townhomes-2023-11-27-05-01-23-utc.jpg",
         amenities: ["Cerca de transporte público", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Patricia Morales",
@@ -276,7 +276,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Casa moderna en barrio tranquilo.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/street-with-modern-family-houses-2023-11-27-05-00-49-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/street-with-modern-family-houses-2023-11-27-05-00-49-utc.jpg",
         amenities: ["Jardín", "Cerca de colegios", "Estacionamiento"],
         agente: {
             nombre: "Andrés Núñez",
@@ -302,7 +302,7 @@ const propiedades = [
         baños: 1,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento accesible con excelente conectividad.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/timber-colorful-house-in-the-countryside-of-chile-2023-11-27-05-04-52-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/timber-colorful-house-in-the-countryside-of-chile-2023-11-27-05-04-52-utc.jpg",
         amenities: ["Cerca de transporte público", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Verónica Araya",
@@ -328,7 +328,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Casa amplia con patio grande, ideal para familias.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/timber-colorful-house-in-the-countryside-of-chile-2023-11-27-05-36-51-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/timber-colorful-house-in-the-countryside-of-chile-2023-11-27-05-36-51-utc.jpg",
         amenities: ["Jardín", "Estacionamiento", "Cerca de colegios"],
         agente: {
             nombre: "Alejandro Fuentes",
@@ -354,7 +354,7 @@ const propiedades = [
         baños: 1,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento luminoso con excelente ubicación.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/view-from-above-of-densely-built-residential-house-2023-11-27-05-08-12-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/view-from-above-of-densely-built-residential-house-2023-11-27-05-08-12-utc.jpg",
         amenities: ["Cerca de transporte público", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Beatriz Rojas",
@@ -380,7 +380,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Casa moderna en barrio residencial.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/aerial-view-of-tightly-located-new-family-houses-i-2023-11-27-05-19-01-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/aerial-view-of-tightly-located-new-family-houses-i-2023-11-27-05-19-01-utc.jpg",
         amenities: ["Jardín", "Cerca de colegios", "Estacionamiento"],
         agente: {
             nombre: "Luis Sánchez",
@@ -406,7 +406,7 @@ const propiedades = [
         baños: 1,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento cómodo y accesible.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/aerial-view-of-tightly-located-new-family-houses-i-2024-01-30-01-07-55-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/aerial-view-of-tightly-located-new-family-houses-i-2024-01-30-01-07-55-utc.jpg",
         amenities: ["Cerca de transporte público", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Elena Vargas",
@@ -432,7 +432,7 @@ const propiedades = [
         baños: 3,
         tipoPropiedad: "Casa",
         descripcion: "Casa familiar con gran jardín.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/august-17-2017-pervalka-village-lithuania-old-l-2023-11-27-05-04-27-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/august-17-2017-pervalka-village-lithuania-old-l-2023-11-27-05-04-27-utc.jpg",
         amenities: ["Jardín", "Cerca de colegios", "Estacionamiento"],
         agente: {
             nombre: "Fernando Paredes",
@@ -458,7 +458,7 @@ const propiedades = [
         baños: 3,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento de lujo con vista a la cordillera.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/beautiful-shot-of-old-brick-houses-in-a-row-on-a-s-2023-11-27-05-18-05-utc.jpeg",
+        imagenUrl: "https://socovesa.vercel.app/images/beautiful-shot-of-old-brick-houses-in-a-row-on-a-s-2023-11-27-05-18-05-utc.jpeg",
         amenities: ["Piscina", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Cristina Figueroa",
@@ -484,7 +484,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Casa acogedora con excelente conectividad.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/casa-de-pedra-museum-19th-century-stone-house-2023-11-27-05-25-58-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/casa-de-pedra-museum-19th-century-stone-house-2023-11-27-05-25-58-utc.jpg",
         amenities: ["Jardín", "Cerca de colegios", "Estacionamiento"],
         agente: {
             nombre: "Sebastián Reyes",
@@ -510,7 +510,7 @@ const propiedades = [
         baños: 1,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento económico en zona residencial.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/detail-of-colorful-houses-2023-11-27-04-59-08-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/detail-of-colorful-houses-2023-11-27-04-59-08-utc.jpg",
         amenities: ["Cerca de transporte público", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Silvana Miranda",
@@ -536,7 +536,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Casa moderna en barrio tranquilo.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/rooflines-in-the-neighborhood-at-sunset-in-the-spr-2023-11-27-05-07-36-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/rooflines-in-the-neighborhood-at-sunset-in-the-spr-2023-11-27-05-07-36-utc.jpg",
         amenities: ["Jardín", "Estacionamiento", "Cerca de colegios"],
         agente: {
             nombre: "Tomás Valenzuela",
@@ -562,7 +562,7 @@ const propiedades = [
         baños: 1,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento con buena conectividad.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/street-with-modern-family-houses-2023-11-27-05-00-49-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/street-with-modern-family-houses-2023-11-27-05-00-49-utc.jpg",
         amenities: ["Cerca de transporte público", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Gabriela Muñoz",
@@ -588,7 +588,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Casa en excelente ubicación, con amplio jardín.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/timber-colorful-house-in-the-countryside-of-chile-2023-11-27-05-04-52-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/timber-colorful-house-in-the-countryside-of-chile-2023-11-27-05-04-52-utc.jpg",
         amenities: ["Jardín", "Estacionamiento", "Cerca de colegios"],
         agente: {
             nombre: "Claudia Fernández",
@@ -614,7 +614,7 @@ const propiedades = [
         baños: 1,
         tipoPropiedad: "Departamento",
         descripcion: "Departamento con excelente conectividad y vista despejada.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/timber-colorful-house-in-the-countryside-of-chile-2023-11-27-05-36-51-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/timber-colorful-house-in-the-countryside-of-chile-2023-11-27-05-36-51-utc.jpg",
         amenities: ["Cerca de transporte público", "Seguridad 24h", "Estacionamiento"],
         agente: {
             nombre: "Marta Salazar",
@@ -640,7 +640,7 @@ const propiedades = [
         baños: 2,
         tipoPropiedad: "Casa",
         descripcion: "Casa cómoda en barrio residencial.",
-        imagenUrl: "https://socovesa.vercel.app/propiedades/images/view-from-above-of-densely-built-residential-house-2023-11-27-05-08-12-utc.jpg",
+        imagenUrl: "https://socovesa.vercel.app/images/view-from-above-of-densely-built-residential-house-2023-11-27-05-08-12-utc.jpg",
         amenities: ["Jardín", "Estacionamiento", "Cerca de colegios"],
         agente: {
             nombre: "Alberto Gutiérrez",
